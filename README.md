@@ -32,11 +32,11 @@ Below is a screenshot of the interface showcasing all available controls:
 
 Choose from predefined artistic styles:
 
-* **Anime** – Cute, vibrant, Ghibli‑inspired visuals
-* **Photo** – Photorealistic, DSLR‑like imagery
-* **Video Game** – Unreal Engine–style render with dramatic lighting
+* **Anime** – Cute, vibrant, Ghibli inspired visuals
+* **Photo** – Photorealistic, DSLR like imagery
+* **Video Game** – Unreal Engine style render with dramatic lighting
 * **Watercolor** – Soft, pastel, painterly textures
-* **None** – Pure prompt‑driven output
+* **None** – Pure prompt driven output
 
 ###  Guidance Scale
 
