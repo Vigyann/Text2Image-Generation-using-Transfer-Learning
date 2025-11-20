@@ -45,7 +45,7 @@ Controls how strongly the model follows your prompt.
 * Low → Creative & flexible
 * High → Accurate & prompt‑strict
 
-### **🔁Inference Steps**
+### **Inference Steps**
 
 Higher steps mean more detailed images but slower generation.
 
@@ -72,7 +72,7 @@ This project leverages *transfer learning* by using a pre‑trained Stable Diffu
 
 ---
 
-## 🛠️ Project Structure
+##  Project Structure
 
 ```
 .
@@ -83,7 +83,7 @@ This project leverages *transfer learning* by using a pre‑trained Stable Diffu
 
 ---
 
-## 🚀 Running the Project
+## Running the Project
 
 1. Install dependencies
 2. Run all the cells
