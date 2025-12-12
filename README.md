@@ -90,7 +90,7 @@ This project leverages *transfer learning* by using a pre‑trained Stable Diffu
 3. The app will open in your browser automatically using link.
 4. There is no cost associated with it for generating any number of images as we are using transfer Learning not any API keys.
 
-
+Note: If the code or notebook is not rendering or visible, please download the file to view or use it properly.
 
 ---
 
